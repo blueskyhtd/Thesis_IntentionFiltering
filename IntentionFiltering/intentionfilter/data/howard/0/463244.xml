@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>motorola droid handscent sms issue</title>
+		<username>xsylus</username>
+		<datetime>06-04-2010 07:00 pm</datetime>
+		<content>i'm using motorola droid on cricket and everything works; talk, text, mms, and web over 3g. however i just started using handscent sms in place of the default android message app and i can send / receive sms and i can receive mms through handscent but i cannot send mms via handscent. what's weird is that mms works fine via the default android message app. i contacted the developer of handscent but so far none of the updates to the app have fixed it. i don't know if the issue is the handscent app or the fact that my phone has to go through iptables to get data. any ideas on what could be causing this? i've looked through all of handscent settings but haven't seen anything that stands out as a potential cause. for now i just have to use the default android message app for sending mms.</content>
+	</post>
+</thread>

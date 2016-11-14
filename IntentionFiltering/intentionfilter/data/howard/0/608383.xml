@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>dropping 3g/hsdpa connection</title>
+		<username>spyz88</username>
+		<datetime>07-29-2009 03:10 pm</datetime>
+		<content>i've had my htc magic from rogers (32a) for about 3 weeks now. i live in the us but no matter what rom i use the connection keeps disconnecting. so the way it happens is that i start the phone, all is fine, i can browse then a few minutes later i cannot ping nor browse it seems as the data connection just dies. i've tried the hofo rom, stock rogers rom, hero roms, and all of them have the same issue. i've tried playing with the apn settings but they all seem correct. i'm also running haykuro's spl with the latest radio version. does anyone have any suggestions?</content>
+	</post>
+</thread>

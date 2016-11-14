@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>i got tired of low res icons from apps not yet updated... so i did them myself...</title>
+		<username>eliteabombaz</username>
+		<datetime>08-04-2010 02:11 pm</datetime>
+		<content>just did bank of america, remote app and my google voice web shortcut. i will get to them all later today! i also changed my bite sms into the high res ip4 messages icon. just take the "artwork" from the apps in itunes. use gimp (free open source photoshop alternative) to size them to 150x150 pixels. then save them as "icon.png" and ssh into your phone and copy the file into the .app locations: /private/var/stash/applications <------ apple  cydia apps /private/var/mobile/applications <------ appstore apps /private/var/mobile/library/webclips <--- safari bookmark icons</content>
+	</post>
+</thread>

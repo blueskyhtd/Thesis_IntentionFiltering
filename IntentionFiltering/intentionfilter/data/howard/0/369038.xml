@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>wind mobile tower map</title>
+		<username>canadiancow</username>
+		<datetime>02-20-2010 07:17 pm</datetime>
+		<content>i threw this together using some industry canada data from 2010-02-03. http://www.canadiancow.com/wind/index.html it's the same data behind http://www.jrmy.net/tafl/, but i'm only using frequency allocations for globalive wireless. i'm not sure if there are any other maps out there, but i thought this would be useful for seeing where towers are going to be in new areas (ottawa, edmonton, vancouver). industry canada seems to only update their public database once a month or so, and i don't know how well it correlates to actual tower placement, but i thought it would be useful. i'll update it whenever ic updates their data. i've already had one feature request: to differentiate new towers from older ones. i'm not entirely sure that's feasible, given the data source (the only dates i have are when ic allocated the frequency to wind, which date back to last august). however, if anyone else has any other recommendations, i'd be glad to hear them.</content>
+	</post>
+</thread>

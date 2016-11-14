@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>tmobile vibrant and bell's vibrant. will the work of each other's network?</title>
+		<username>korn0holic</username>
+		<datetime>08-22-2010 09:31 pm</datetime>
+		<content>we all know that tmobile version of the vibrant will work on att and bell's 3g network. my question is will the bell's version on the vibrant work on tmobile's 3g network att- samsung captivate rings up theses bands after you enter the menu wcdma 2100 (fdd 1) selected wcdma 1900 (fdd 2) selected wcdma 900 (fdd 8) not selected wcdma 850 (fdd 5) selected i was wondering if a bell customer who has a bell version of the vibrant can tell me what bands show up in "network selection" 1. on the key pad, type *#*#197328640#*#* 2. select [1] debug screen 3. select [8] phone control 4. select [7] network control 5. select [2] network selection 6. select [4] combi bands [] you should see a list of supported bands for gsm and umts (wcdma). can anyone say if the bell's vibrant also supports 1700?</content>
+	</post>
+</thread>

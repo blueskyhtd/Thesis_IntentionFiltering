@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>page plus, outgoing smtp server</title>
+		<username>fairchild</username>
+		<datetime>02-05-2010 10:26 am</datetime>
+		<content>i understand that google's smtp server could be used, but i'm wondering if there are any other options. there seem to be few discussions of this here (if you search for smpt in the pageplus forums anyway). my current email provider doesn't allow outgoing mail unless i'm on their network (which i suppose i could do via dialup). is there a reliable smtp gateway for pageplus that doesn't involve google? regards, hans</content>
+	</post>
+</thread>

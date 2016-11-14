@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>wind internet settings (apns)</title>
+		<username>~david</username>
+		<datetime>12-14-2010 05:49 pm</datetime>
+		<content>for both data and mms to function, you need to set up two apns: data --------------------------- name: wind ca apn: internet.windmobile.ca mcc: 302 mnc: 490 type: default,supl mms --------------------------- name: wind ca mms apn: mms.windmobile.ca mmsc: http://mms.windmobile.ca mms proxy: 74.115.197.70 mms port: 8080 mcc: 302 mnc: 490 type: mms on android phones, this can be configured in settings > wireless  networks > mobile networks > access point names > menu > new apn. be sure to select menu > save apn when done entering the above information.</content>
+	</post>
+</thread>

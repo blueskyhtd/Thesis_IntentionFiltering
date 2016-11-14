@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>canon xti rotation problem?</title>
+		<username>mrray</username>
+		<datetime>07-14-2008, 12:34 am</datetime>
+		<content>having a problem with rotation on my xti. only photos taken with the camera rotated 90 degrees to the right are appearing as they should. everything else is being rotated incorrectly, including images taken with the camera in its natural position. is there a rotation override setting somewhere, or could my orientation sensor be bad? if so, can that be fixed, cleaned, etc.? here are the camera positions and resulting image rotations: - camera in its natural position (landscape): image rotated 90 degrees to the right (portrait) - camera rotated 90 degress to the left (portrait): image rotated upside-down (portrait) - camera rotated upside-down (landscape): image rotated 90 degrees to the left (portrait) - camera rotated 90 degress to the right (portrait): image appears exactly as it should (portrait) what gives?</content>
+	</post>
+</thread>

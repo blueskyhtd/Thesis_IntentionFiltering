@@ -1,0 +1,8 @@
+<thread>
+	<post id="0" class="0">
+		<title>is it possible to do correct color calibration with just the rgb filters?</title>
+		<username>jack white</username>
+		<datetime>09-02-08, 09:38 pm</datetime>
+		<content>i have an old 20" sony crt with which i'd like to "experiment" as it was only $424 in 1998 so even if it got messed up, it wouldn't be a huge deal. is it possible to have proper color using just the red, green, and blue filters, avia1 and using these items in the service menu? gamp 18 0-31 green amp. bamp 14 0-31 blue amp. gdrv 18 0-31 green driver bdrv 14 0-31 blue driver rcut 15 red cutoff - (lower level) gcut 4 0-15 green cutoff - (lower level) bcut 1 0-15 blue cutoff - (lower level) rdrv 21 red amp. - (upper level) gdrv 18 green amp. - (upper level) bdrv 14 blue amp. - (upper level) r-yr 15 0-15 sets the amount of red r-yb 15 0-15 sets the amount of red g-yg 11 0-15 sets the amount of green g-yb 9 0-15 sets the amount of green axis 0 0-15 cleans up the red  oranginess in yellow do you have to fiddle with all these setting or just a few to fix the colors?</content>
+	</post>
+</thread>
